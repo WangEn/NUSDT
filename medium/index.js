@@ -74,7 +74,8 @@ const users = [
   'b2ffd2f747b',
   'a8d1911c01f0',
   '7e2072532c7b',
-  'c03b3e095f40'
+  'c03b3e095f40',
+  'ba6d56fa7c5c'
 ]
 
 const sendPromise = (uid) => new Promise((resolve, reject) => {
